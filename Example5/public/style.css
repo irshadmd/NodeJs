@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+}
+.nav{
+	display: block;
+	text-decoration: none;
+}
+.nav-bt{
+	width: 100px;
+	height: 20px;
+	border: 2px solid red;
+	display: inline-block;
+	text-align: center; 
+}
+h1{
+	color: green;
+	text-align: center;
+}
+.bt{
+	width: 60px;
+	height: 60px;
+	border: 2px solid red;
+	border-radius: 50%;
+	text-align: center;
+}
